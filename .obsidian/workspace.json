@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "ae7391ef82751208",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e4dfa02db3fed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d515a5efa36e07c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glossary"
+            }
+          },
+          {
+            "id": "65dd3e04f68751ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/How to create an enterprise application with V0 and Cursor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to create an enterprise application with V0 and Cursor"
+            }
+          },
+          {
+            "id": "6ad21a3f552bd102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50e5e72f721cedf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "805939e0a94ed977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d90c5f77539c8f09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "305e0d0f8b6c389f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "78852107e3d076a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b48a79082f60e323",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3b24f5c6b8f2a80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "490ec5b97387ed39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Glossary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Glossary"
+            }
+          },
+          {
+            "id": "0fdf1c078f14a7ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Glossary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Glossary"
+            }
+          },
+          {
+            "id": "dfe015407bd8a81d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "714d0abc8a1584ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Glossary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Glossary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6ad21a3f552bd102",
+  "lastOpenFiles": [
+    "Week 1/ML-Mind-Mapping/⚙️ End-to-end ML Process (Details).png",
+    "Week 1/Enterprise App Project.md",
+    "Week 1/ML-Mind-Mapping/📌 End-to-end ML Process (Overview).png",
+    "Week 1/ML-Mind-Mapping/Overton-End-to-end-ML-Process.png",
+    "Week 1/ML-Mind-Mapping",
+    "ML-Mind-Mapping/📌 End-to-end ML Process (Overview).png",
+    "ML-Mind-Mapping/⚙️ End-to-end ML Process (Details).png",
+    "ML-Mind-Mapping/Overton-End-to-end-ML-Process.png",
+    "ML-Mind-Mapping",
+    "Week 1/How-To-Create-Computer-Models.pdf",
+    "How-To-Create-Computer-Models.pdf",
+    "Week 1/How to create an enterprise application with V0 and Cursor.md",
+    "Week 1",
+    "README.md",
+    "Glossary.md"
+  ]
+}
