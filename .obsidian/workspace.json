@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2/Creating a model-small dataset/Creating a model- Small data set ~ Dev Log.md",
+                "file": "AI Engineering Fellowship/Week 2/Creating a model-small dataset/Creating a model- Small data set ~ Dev Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Creating a model- Small data set ~ Dev Log"
             }
+          },
+          {
+            "id": "4bc377db1e44274d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,29 +226,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "d90c5f77539c8f09",
+  "active": "4bc377db1e44274d",
   "lastOpenFiles": [
+    "AI Engineering Fellowship/Week 2- Quick Recap of Week 2- Sept 14th-20th.md",
+    "README.md",
+    "AI Engineering Fellowship",
+    "AI Engineering Fellowship/Week 2/Creating a model-small dataset/Creating a model- Small data set ~ Dev Log.md",
     "Week 2.md",
-    "Week 2/Creating a model-small dataset/Creating a model- Small data set ~ Dev Log.md",
-    "Week 2/Creating a model-small dataset/the-ai-art-critic-what-art-style-is-it.ipynb",
-    "Week 2/Creating a model-small dataset",
+    "AI Engineering Fellowship/Week 2/Creating a model-small dataset/the-ai-art-critic-what-art-style-is-it.ipynb",
+    "AI Engineering Fellowship/Week 2/Creating a model-small dataset",
     "Week 2/untitled folder",
     "Week 2/the-ai-art-critic-what-art-style-is-it.ipynb",
     "the-ai-art-critic-what-art-style-is-it.ipynb",
-    "Week 2",
-    "README.md",
-    "Week 1/ML-Mind-Mapping/⚙️ End-to-end ML Process (Details).png",
-    "Week 1/Enterprise App Project.md",
-    "Week 1/ML-Mind-Mapping/📌 End-to-end ML Process (Overview).png",
-    "Week 1/ML-Mind-Mapping/Overton-End-to-end-ML-Process.png",
-    "Week 1/ML-Mind-Mapping",
+    "AI Engineering Fellowship/Week 2",
+    "AI Engineering Fellowship/Week 1/ML-Mind-Mapping/⚙️ End-to-end ML Process (Details).png",
+    "AI Engineering Fellowship/Week 1/Enterprise App Project.md",
+    "AI Engineering Fellowship/Week 1/ML-Mind-Mapping/📌 End-to-end ML Process (Overview).png",
+    "AI Engineering Fellowship/Week 1/ML-Mind-Mapping/Overton-End-to-end-ML-Process.png",
+    "AI Engineering Fellowship/Week 1/ML-Mind-Mapping",
     "ML-Mind-Mapping/📌 End-to-end ML Process (Overview).png",
     "ML-Mind-Mapping/⚙️ End-to-end ML Process (Details).png",
     "ML-Mind-Mapping/Overton-End-to-end-ML-Process.png",
     "ML-Mind-Mapping",
-    "Week 1/How-To-Create-Computer-Models.pdf",
-    "How-To-Create-Computer-Models.pdf",
-    "Week 1/How to create an enterprise application with V0 and Cursor.md",
-    "Glossary.md"
+    "AI Engineering Fellowship/Week 1/How-To-Create-Computer-Models.pdf",
+    "AI Engineering Fellowship/Week 1/How to create an enterprise application with V0 and Cursor.md",
+    "AI Engineering Fellowship/Glossary.md"
   ]
 }
