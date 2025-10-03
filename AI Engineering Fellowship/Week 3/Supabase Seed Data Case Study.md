@@ -102,26 +102,3 @@ When the user schema is done I’ll be populating it with seed data. I met up wi
 8. Add to `package.json` scripts to make it easy to re-run:
 	1. `"scripts": {   "seed": "node supabase/seed.js" }`
 	2. Then run with: `npm run seed`
-
-### How to ignore seed data for production
-
-You can have your supabase branches ignore the seed i.g production, main. in your config.toml  bottom of my `supabase/config.toml`
-
-```toml
-[remotes.develop]
-project_id = "************"
-[remotes.main]
-project_id = "************"
-```
-
-seed section of my toml
-
-```toml
-[db.seed]
-enabled = true
-sql_paths = [ "seed.sql" ]
-[remotes.main.db.seed]
-enabled = false 
-```
-
-Let me know if this was helpful or not.

@@ -165,16 +165,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineering Fellowship/Week 3/Week 3- Quick Recap of Week 3- Sept 21st-27th.md",
+                "file": "AI Engineering Fellowship/Week 3/Project README- Dev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 3- Quick Recap of Week 3- Sept 21st-27th"
+              "title": "Project README- Dev"
+            }
+          },
+          {
+            "id": "80369d097e94b328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Engineering Fellowship/Week 2/Winter Arc Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Winter Arc Project"
+            }
+          },
+          {
+            "id": "f8d37d71dddccfc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Engineering Fellowship/Week 2/Lunch + Learn- Bloom Two Sigma Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lunch + Learn- Bloom Two Sigma Report"
+            }
+          },
+          {
+            "id": "c950f8bd10b14b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Engineering Fellowship/Week 2/Weekly Lecture- Week 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weekly Lecture- Week 2"
+            }
+          },
+          {
+            "id": "0d496b331ead55ae",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "AI Engineering Fellowship/Week 4/Student-Dashboard/Screenshot 2025-09-30 at 18.52.15.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-09-30 at 18.52.15"
+            }
+          },
+          {
+            "id": "9097b42170b95c74",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "AI Engineering Fellowship/Week 4/Seed-Data-Req-Mapping.png"
+              },
+              "icon": "lucide-image",
+              "title": "Seed-Data-Req-Mapping"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -322,42 +388,51 @@
       "bases:Create new base": false
     }
   },
-  "active": "4db747046a4a99f2",
+  "active": "d90c5f77539c8f09",
   "lastOpenFiles": [
-    "AI Engineering Fellowship/Week 3/Lesson Plan Mock Data.md",
-    "AI Engineering Fellowship/Week 3/Week 3- Quick Recap of Week 3- Sept 21st-27th.md",
+    "AI Engineering Fellowship copy",
+    "AI Engineering Fellowship/Week 4/Quick Recap of Week 4- Sept 28th-Oct 4th.md",
+    "AI Engineering Fellowship/Week 4/Seed-Data-Req-Mapping.png",
+    "AI Engineering Fellowship/Week 3/Shared files/USER_SCHEMA.md",
+    "AI Engineering Fellowship/Week 3/Shared files/SEEDING_GUIDE.md",
     "AI Engineering Fellowship/Week 3/End-to-End.png",
+    "AI Engineering Fellowship/Week 3/Lesson Plan Mock Data.md",
+    "AI Engineering Fellowship/Week 3/Project README- Main.md",
+    "AI Engineering Fellowship/Week 3/Project README- Dev.md",
+    "AI Engineering Fellowship/Week 3/Old Dev branch README.md",
     "AI Engineering Fellowship/Week 3/Student Model.png",
-    "AI Engineering Fellowship/Week 3/Project README WIP.md",
-    "AI Engineering Fellowship/Week 3/User Mock Data.md",
-    "AI Engineering Fellowship/Week 2/Week 2- Quick Recap of Week 2- Sept 14th-20th.md",
     "AI Engineering Fellowship/Week 3/Supabase Seed Data Case Study.md",
+    "AI Engineering Fellowship/Week 3/User Mock Data.md",
+    "AI Engineering Fellowship/Seed-Data-Req-Mapping.png",
+    "Seed-Data-Req-Mapping.png",
+    "AI Engineering Fellowship/Week 3/Week 3- Quick Recap of Week 3- Sept 21st-27th.md",
+    "AI Engineering Fellowship/Week 4/Student-Dashboard/README.md",
+    "AI Engineering Fellowship/Week 4/Student-Dashboard/Screenshot 2025-09-30 at 18.52.15.png",
+    "AI Engineering Fellowship/Week 4/Student-Dashboard/Screenshot 2025-09-30 at 18.52.52.png",
+    "AI Engineering Fellowship/Week 4/Student-Dashboard/Screenshot 2025-09-30 at 18.52.38.png",
+    "AI Engineering Fellowship/Week 4/Student-Dashboard/Screenshot 2025-09-30 at 18.52.32.png",
+    "AI Engineering Fellowship/Week 4/Student-Dashboard/Screenshot 2025-09-30 at 18.52.19.png",
+    "AI Engineering Fellowship/Week 2/Week 2- Quick Recap of Week 2- Sept 14th-20th.md",
+    "AI Engineering Fellowship/Week 2/Lunch + Learn- Bloom Two Sigma Report.md",
+    "AI Engineering Fellowship/Week 2/How to create a MongoDB MCP Server.md",
+    "AI Engineering Fellowship/Week 2/Weekly Lecture- Week 2.md",
+    "AI Engineering Fellowship/Week 2/Winter Arc Project.md",
+    "AI Engineering Fellowship/Week 2/Creating a model-small dataset/Creating a model- Small data set ~ Dev Log.md",
+    "AI Engineering Fellowship/Week 4/Student-Dashboard",
+    "AI Engineering Fellowship/Week 4",
+    "AI Engineering Fellowship/Week 3/Shared files/profiles_seed.sql",
+    "AI Engineering Fellowship/Week 3/Shared files",
     "AI Engineering Fellowship/Week 3/supabase/seed.ts",
-    "AI Engineering Fellowship/User Model.png",
-    "AI Engineering Fellowship/End-to-End.png",
-    "User Model.png",
-    "End-to-End.png",
     "AI Engineering Fellowship/Week 3/supabase/seed.sql",
     "AI Engineering Fellowship/Week 3/supabase",
     "AI Engineering Fellowship/Week 3/seed-data.sql",
-    "AI Engineering Fellowship/Week 2/How to create a MongoDB MCP Server.md",
     "AI Engineering Fellowship/Week 3",
-    "AI Engineering Fellowship/Week 2/Winter Arc Project.md",
-    "AI Engineering Fellowship/Week 2/Creating a model-small dataset/Creating a model- Small data set ~ Dev Log.md",
     "AI Engineering Fellowship/Week 1/Week 1-AI Engineering Doc copy.pdf",
-    "AI Engineering Fellowship/Week 1/How-To-Create-Computer-Models copy.pdf",
     "AI Engineering Fellowship/Week 1/How to create an enterprise application with V0 and Cursor copy.md",
     "AI Engineering Fellowship/Week 1/Enterprise App Project.md",
     "README.md",
     "AI Engineering Fellowship/Week 2- Quick Recap of Week 2- Sept 14th-20th.md",
-    "AI Engineering Fellowship",
     "Week 2.md",
-    "AI Engineering Fellowship/Week 2/Creating a model-small dataset/the-ai-art-critic-what-art-style-is-it.ipynb",
-    "AI Engineering Fellowship/Week 2/Creating a model-small dataset",
-    "AI Engineering Fellowship/Week 1/ML-Mind-Mapping/⚙️ End-to-end ML Process (Details).png",
-    "AI Engineering Fellowship/Week 1/ML-Mind-Mapping/📌 End-to-end ML Process (Overview).png",
-    "AI Engineering Fellowship/Week 1/ML-Mind-Mapping/Overton-End-to-end-ML-Process.png",
-    "ML-Mind-Mapping/📌 End-to-end ML Process (Overview).png",
     "AI Engineering Fellowship/Week 1/How to create an enterprise application with V0 and Cursor.md",
     "AI Engineering Fellowship/Glossary.md"
   ]
