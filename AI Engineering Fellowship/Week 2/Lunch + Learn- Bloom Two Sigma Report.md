@@ -1,0 +1,25 @@
+
+- Problem: How to simulate the results of tutoring within a group learning setting?
+- Alterable variables: These have different effects on learning
+    - Quality of teaching
+    - Use of time
+    - Cognitive and affective entry characteristics of students
+    - Formative testing
+    - Rate of learning
+    - Home environment
+- Alterable variables with the strongest affects on school learning:
+- It’s assumed that 2-3 variables must be used together in conventional learning to have the same affect as tutoring
+    - Mastery learning could be one of these variables
+    - Other variables are expected to have a .5 sigma effect or greater
+    - More than 3 variables = too complex
+    - Present research combination reach 2 SD, but does not go above it
+- When are variables true to have an affect and when they’re not
+    - Suggestive Additive results: ML + changes in teaching process
+- This research only includes variables in the top half of table 1, other variables will be explored later
+    - They have only done research with ML + one other variable; not 3
+    - They try to combine 2 levels of schooling and 2 subjects
+- How to improve learning without changing the teaching
+    - Students develop good study habits, devote more time to learning, improve reading skills; ML needs this (cognitive and affective prerequisites)
+    - ML creates a 1 SD with the same teacher, same instruction, and same material. Students are more optimistic about learning and apply themselves more
+    - Possibility
+        - Enhance the students’ cognitive and affective prerequisites early within an advanced ML course
