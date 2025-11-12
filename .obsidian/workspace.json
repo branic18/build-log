@@ -322,9 +322,23 @@
               "icon": "lucide-file",
               "title": "Quick Recap of Week 9- Nov 2nd-Nov 8th"
             }
+          },
+          {
+            "id": "9eca2a9862278b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privacy Audit Tool/Week of Nov 9th.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week of Nov 9th"
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -474,10 +488,12 @@
   },
   "active": "d90c5f77539c8f09",
   "lastOpenFiles": [
+    "AI Engineering Fellowship/Week 9/Quick Recap of Week 9- Nov 2nd-Nov 8th.md",
+    "Privacy Audit Tool/Week of Nov 9th.md",
+    "Privacy Audit Tool",
     "README.md",
     "AI Engineering Fellowship/Week 10",
     "AI Engineering Fellowship/Week 10/AI-Project-Week10-System-Design.png",
-    "AI Engineering Fellowship/Week 9/Quick Recap of Week 9- Nov 2nd-Nov 8th.md",
     "AI Engineering Fellowship/Week 8/Quick Recap of Week 8- Oct 26th-Nov 1st.md",
     "AI Engineering Fellowship/Week 7/Quick Recap of Week 7- Oct 19th-Oct 25th.md",
     "AI Engineering Fellowship/Week 7/AI-Fine-Tuning-System-Design.png",
@@ -517,8 +533,6 @@
     "AI Engineering Fellowship/Week 4",
     "AI Engineering Fellowship/Week 3/Shared files/profiles_seed.sql",
     "AI Engineering Fellowship/Week 3/Shared files",
-    "AI Engineering Fellowship/Week 3/supabase/seed.ts",
-    "AI Engineering Fellowship/Week 1/How to create an enterprise application with V0 and Cursor copy.md",
-    "AI Engineering Fellowship/Week 1/Enterprise App Project.md"
+    "AI Engineering Fellowship/Week 1/How to create an enterprise application with V0 and Cursor copy.md"
   ]
 }
