@@ -493,8 +493,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b48a79082f60e323",
@@ -585,8 +584,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "9dd2ad8377c10548",
+  "active": "d90c5f77539c8f09",
   "lastOpenFiles": [
+    "AI Engineering Fellowship/Week 10/Week 10- Quick Recap of Week 10- April 5th-11th.md",
+    "AI Engineering Fellowship/Week 10/Week 10- Quick Recap of Week 10.md",
+    "AI Engineering Fellowship/Week 10/kwf.md",
     "AI Engineering Fellowship/Week 8/Week 8- Quick Recap of Week 8- Mar 22nd-28th.md",
     "AI Engineering Fellowship/Week 9/Week 9- Quick Recap of Week 9- Mar 29th- April 4th.md",
     "AI Engineering Fellowship/Week 9",
@@ -625,9 +627,6 @@
     "AI Engineering Fellowship Pilot/Week 5/Quick Recap of Week 5- Oct 5th-Oct 11th.md",
     "AI Engineering Fellowship Pilot/Week 4/Quick Recap of Week 4- Sept 28th-Oct 4th.md",
     "AI Engineering Fellowship Pilot/Week 4/Seed-Data-Req-Mapping.png",
-    "AI Engineering Fellowship Pilot/Week 3/Lesson Plan Mock Data.md",
-    "AI Engineering Fellowship Pilot/Week 3/Shared files/USER_SCHEMA.md",
-    "AI Engineering Fellowship Pilot/Week 3/Shared files/SEEDING_GUIDE.md",
     "AI Engineering Fellowship Pilot/Week 3/End-to-End.png",
     "AI Engineering Fellowship Pilot/Week 3/Student Model.png",
     "AI Engineering Fellowship/Seed-Data-Req-Mapping.png",
